@@ -159,6 +159,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.roodudu.com/tags/%E8%AF%BE%E5%A4%96%E7%8F%AD/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/tags/%E5%A4%96%E8%AF%AD/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -190,6 +196,12 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/tags/%E5%AD%A6%E4%B9%A0%E8%AF%AF%E5%8C%BA/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/posts/2025010306/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
