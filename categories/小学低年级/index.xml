@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小学低年级 on Roo嘟嘟花园</title>
-    <link>https://www.roodudu.com/categories/%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7/</link>
+    <link>http://localhost:1313/categories/%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7/</link>
     <description>Recent content in 小学低年级 on Roo嘟嘟花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Old Roo</copyright>
-    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.roodudu.com/categories/%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>《创造宣言》（节选）</title>
-      <link>https://www.roodudu.com/posts/2025010102/</link>
+      <link>http://localhost:1313/posts/2025010102/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://www.roodudu.com/posts/2025010102/</guid>
+      <guid>http://localhost:1313/posts/2025010102/</guid>
       <description>教育家陶行知先生在1943年10月写下了《创造宣言》,这篇文</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/posts/2025010102/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025010102/cover.jpg" />
     </item>
     
     <item>
       <title>山东省中小学数学创新学习能力水平检测</title>
-      <link>https://www.roodudu.com/posts/2025010202/</link>
+      <link>http://localhost:1313/posts/2025010202/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://www.roodudu.com/posts/2025010202/</guid>
+      <guid>http://localhost:1313/posts/2025010202/</guid>
       <description>”山东省中小学数学创新学习能力水平检测”是山东省青少年科技教</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/posts/2025010202/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025010202/featured.jpg" />
     </item>
     
     <item>
       <title>在子女教育中，我们能改变的只有自己</title>
-      <link>https://www.roodudu.com/posts/2025010206/</link>
+      <link>http://localhost:1313/posts/2025010206/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://www.roodudu.com/posts/2025010206/</guid>
+      <guid>http://localhost:1313/posts/2025010206/</guid>
       <description>真正的教育始于自我成长，父母的改变与努力是孩子成长的催化剂；</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/posts/2025010206/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025010206/featured.png" />
     </item>
     
     <item>
       <title>讲一万句道理，不如和孩子看一部好电影</title>
-      <link>https://www.roodudu.com/posts/2025010104/</link>
+      <link>http://localhost:1313/posts/2025010104/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://www.roodudu.com/posts/2025010104/</guid>
+      <guid>http://localhost:1313/posts/2025010104/</guid>
       <description>电影的力量不只是教导我们去遵从，而是让我们扩展思维去探索不同</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/posts/2025010104/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025010104/cover.jpg" />
     </item>
     
     <item>
       <title>吟诗入梦，怀念叶嘉莹先生</title>
-      <link>https://www.roodudu.com/posts/2025010103/</link>
+      <link>http://localhost:1313/posts/2025010103/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://www.roodudu.com/posts/2025010103/</guid>
+      <guid>http://localhost:1313/posts/2025010103/</guid>
       <description>诗词文化是传统文化的一个重要组成部分，诗词的韵律、朦胧、简洁</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/posts/2025010103/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025010103/cover.jpg" />
     </item>
     
   </channel>
