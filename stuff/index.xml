@@ -2,21 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>好物分享 on Roo嘟嘟花园</title>
-    <link>http://localhost:1313/stuff/</link>
+    <link>https://www.roodudu.com/stuff/</link>
     <description>Recent content in 好物分享 on Roo嘟嘟花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Old Roo</copyright>
-    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/stuff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.roodudu.com/stuff/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>给小Roo选择的第一份杂志</title>
-      <link>http://localhost:1313/stuff/2025010101/</link>
+      <link>https://www.roodudu.com/stuff/2025010101/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/stuff/2025010101/</guid>
-      <description>拆开每月如期而至的巧虎、布奇两个杂志的包装，并喜孜孜地观看D</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/stuff/2025010101/cover.jpg" />
+      <guid>https://www.roodudu.com/stuff/2025010101/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  拆开每月如期而至的巧虎、布奇两个杂志的包装，并喜孜孜地观看DVD，是小Roo每个月最开心的时候
+&lt;/div&gt;
+
+&lt;p&gt;又到了年末给小Roo订阅杂志的时候，她挑来挑去都没有特别合意的，最后悻悻地选了几个杂志，叹气：“爸爸，能选的真的不多，你现在变懒了，不给我出报纸了～”&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/stuff/2025010101/cover.jpg" />
     </item>
     
   </channel>

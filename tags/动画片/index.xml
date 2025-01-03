@@ -2,21 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>动画片 on Roo嘟嘟花园</title>
-    <link>http://localhost:1313/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</link>
+    <link>https://www.roodudu.com/tags/%E5%8A%A8%E7%94%BB%E7%89%87/</link>
     <description>Recent content in 动画片 on Roo嘟嘟花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Old Roo</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%8A%A8%E7%94%BB%E7%89%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.roodudu.com/tags/%E5%8A%A8%E7%94%BB%E7%89%87/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>适合英语启蒙的动画片们</title>
-      <link>http://localhost:1313/soft/2025010101/</link>
+      <link>https://www.roodudu.com/soft/2025010101/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/soft/2025010101/</guid>
-      <description>在幼儿阶段，Roo爸爸的体会是一定要多多尝试不同的内容，直到</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/soft/2025010101/cover.jpg" />
+      <guid>https://www.roodudu.com/soft/2025010101/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  在幼儿阶段，Roo爸爸的体会是一定要多多尝试不同的内容，直到找到孩子喜欢和接受的英语启蒙方式
+&lt;/div&gt;
+
+&lt;p&gt;群里有家长一直在为了她家学龄前孩子问我有没有好的英语APP推荐，其实小Roo小时候，我没有给她使用太多的APP，我是给她找了很多动画片资源去看。其实，比如现在比较火的《小小优趣》这个app，里面也就是集合了一堆动画片资源而已。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/soft/2025010101/cover.jpg" />
     </item>
     
   </channel>

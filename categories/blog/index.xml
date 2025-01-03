@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Roo嘟嘟花园</title>
-    <link>http://localhost:1313/categories/blog/</link>
+    <link>https://www.roodudu.com/categories/blog/</link>
     <description>Recent content in Blog on Roo嘟嘟花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Old Roo</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.roodudu.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>订阅电子报</title>
-      <link>http://localhost:1313/dailypaper/</link>
+      <link>https://www.roodudu.com/dailypaper/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/dailypaper/</guid>
+      <guid>https://www.roodudu.com/dailypaper/</guid>
       <description>小Roo小学的时候，因为市面上的杂志、报纸多是登载一些十年不变的旧内容，为了帮助小Roo开拓眼界，培养探索精神，Roo爸爸开始给小Roo编辑电子报，小Roo非常喜欢。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/dailypaper/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/dailypaper/featured.jpg" />
     </item>
     
     <item>
       <title>关于我们</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.roodudu.com/about/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.roodudu.com/about/</guid>
       <description>Roo嘟嘟“是一个Roo爸爸创立的，用来记录、分享育儿经历的网站。希望每个家庭都可以轻松、快乐地培养出同小Roo一样优秀的孩子。本站内容版权归属Roo爸爸所有，如需转载请注明出处。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/about/featured.png" />
     </item>
     
   </channel>

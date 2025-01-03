@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>考试介绍 on Roo嘟嘟花园</title>
-    <link>http://localhost:1313/series/%E8%80%83%E8%AF%95%E4%BB%8B%E7%BB%8D/</link>
+    <link>https://www.roodudu.com/series/%E8%80%83%E8%AF%95%E4%BB%8B%E7%BB%8D/</link>
     <description>Recent content in 考试介绍 on Roo嘟嘟花园</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Old Roo</copyright>
-    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/%E8%80%83%E8%AF%95%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.roodudu.com/series/%E8%80%83%E8%AF%95%E4%BB%8B%E7%BB%8D/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>山东省中小学数学创新学习能力水平检测</title>
-      <link>http://localhost:1313/posts/2025010202/</link>
+      <link>https://www.roodudu.com/posts/2025010202/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2025010202/</guid>
-      <description>”山东省中小学数学创新学习能力水平检测”是山东省青少年科技教</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2025010202/featured.jpg" />
+      <guid>https://www.roodudu.com/posts/2025010202/</guid>
+      <description>&lt;h3 id=&#34;typeit-130005dd8095bc90e892a80334bac399&#34;&gt;&lt;/h3&gt;
+
+&lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+      new TypeIt(&#34;#typeit-130005dd8095bc90e892a80334bac399&#34;, {
+        strings: [&#34;&#34;,&#34;向下阅读可得考纲和真题资料获取方式&#34;,&#34;&#34;],
+        speed:  50 ,
+        lifeLike:  false ,
+        startDelay:  0 ,
+        breakLines:  false ,
+        waitUntilVisible:  true ,
+        loop:  true 
+      }).go();
+    });
+&lt;/script&gt;
+&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  &lt;p&gt;”山东省中小学数学创新学习能力水平检测”是山东省青少年科技教育协会牵头举办的，面向全省中小学生的数学测试。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/posts/2025010202/featured.jpg" />
     </item>
     
   </channel>
