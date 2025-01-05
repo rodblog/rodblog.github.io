@@ -7,7 +7,209 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Old Roo</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.roodudu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.roodudu.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>一个非常棒的习惯养成软件Timo</title>
+      <link>https://www.roodudu.com/posts/2025010402/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/posts/2025010402/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  &lt;p&gt;今天介绍一款适合5岁~10岁孩子的时间管理软件。&lt;/p&gt;
+&lt;p&gt;我用这款软件，让孩子不知不觉中改掉了拖拉、无规律的毛病，这款软件还让孩子玩的兴致盎然。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/posts/2025010402/featured.png" />
+    </item>
+    
+    <item>
+      <title>一个很漂亮的课程表app</title>
+      <link>https://www.roodudu.com/posts/2025010401/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/posts/2025010401/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  工欲善其事，必先利其器。今天分享的App已经帮我可以更有效组织和管理小Roo的时间。最重要的是，它还是一款高颜值的免费软件
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+&lt;div id=&#34;carousel-b8de663a28b7283bf01cba5c09216a16&#34; class=&#34;relative&#34; data-twe-carousel-init data-twe-ride=&#34;carousel&#34;&gt;
+    &lt;div class=&#34;absolute right-0 bottom-0 left-0 z-[2] mx-[15%] mb-10 flex list-none justify-center p-0&#34;
+        data-twe-carousel-indicators&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-b8de663a28b7283bf01cba5c09216a16&#34; data-twe-slide-to=&#34;0&#34;  data-twe-carousel-active aria-current=&#34;true&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 0&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-b8de663a28b7283bf01cba5c09216a16&#34; data-twe-slide-to=&#34;1&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 1&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-b8de663a28b7283bf01cba5c09216a16&#34; data-twe-slide-to=&#34;2&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 2&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-b8de663a28b7283bf01cba5c09216a16&#34; data-twe-slide-to=&#34;3&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 3&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-b8de663a28b7283bf01cba5c09216a16&#34; data-twe-slide-to=&#34;4&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 4&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-b8de663a28b7283bf01cba5c09216a16&#34; data-twe-slide-to=&#34;5&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 5&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-b8de663a28b7283bf01cba5c09216a16&#34; data-twe-slide-to=&#34;6&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 6&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+    &lt;/div&gt;
+    &lt;div class=&#34;relative w-full overflow-hidden after:clear-both after:block after:content-[&#39;&#39;]&#34;&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  w-full transition-transform duration-[2500ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item  data-twe-carousel-active &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.roodudu.com/posts/2025010401/gallery/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241228221339.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2500ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.roodudu.com/posts/2025010401/gallery/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241228221340.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2500ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.roodudu.com/posts/2025010401/gallery/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241228221341.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 2&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2500ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.roodudu.com/posts/2025010401/gallery/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241228221342.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 3&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2500ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.roodudu.com/posts/2025010401/gallery/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241228221343.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 4&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2500ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.roodudu.com/posts/2025010401/gallery/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241228221344.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 5&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2500ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.roodudu.com/posts/2025010401/gallery/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241228221345.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 6&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+    &lt;/div&gt;
+    &lt;button
+        class=&#34;absolute top-0 bottom-0 left-0 z-[2] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
+        type=&#34;button&#34; data-twe-target=&#34;#carousel-b8de663a28b7283bf01cba5c09216a16&#34; data-twe-slide=&#34;prev&#34;&gt;
+        &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
+            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
+                stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
+                &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M15.75 19.5L8.25 12l7.5-7.5&#34; /&gt;
+            &lt;/svg&gt;
+        &lt;/span&gt;
+        &lt;span
+            class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;&gt;Previous&lt;/span&gt;
+    &lt;/button&gt;
+    &lt;button
+        class=&#34;absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
+        type=&#34;button&#34; data-twe-target=&#34;#carousel-b8de663a28b7283bf01cba5c09216a16&#34; data-twe-slide=&#34;next&#34;&gt;
+        &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
+            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
+                stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
+                &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M8.25 4.5l7.5 7.5-7.5 7.5&#34; /&gt;
+            &lt;/svg&gt;
+        &lt;/span&gt;
+        &lt;span
+            class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;&gt;Nextsads&lt;/span&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;p&gt;School – Ultimate Studying Assistant 就
+是今天介绍的主角。它就像一把精致的瑞士军刀，小巧、实用。话不多说，直接介绍具体功能吧！&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/posts/2025010401/featured.png" />
+    </item>
     
     <item>
       <title>AI外教类APP对孩子学习英语有什么用</title>
@@ -21,6 +223,32 @@
 
 &lt;p&gt;小Roo小时候学习英语的时候，AI还没有大行其道，一些AI外教类的英语学习，特别是口语学习APP是这些年冒出来的。因为一些家长来请教的关系，我试用了一部分这类产品，斑马英语、叮咚课堂、有道少儿英语、流利说少儿英语等。&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/posts/2025010302/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>给小Roo的玩具--低龄积木篇</title>
+      <link>https://www.roodudu.com/stuff/2025010301/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/stuff/2025010301/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  我非常鼓励小Roo玩积木玩具。即便小Roo已经长大到初中，也是如此。因为积木不仅能培养孩子的创造力，还能锻炼她的动手能力和专注力。
+&lt;/div&gt;
+
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;小Roo用过哪些积木 
+    &lt;div id=&#34;%E5%B0%8Froo%E7%94%A8%E8%BF%87%E5%93%AA%E4%BA%9B%E7%A7%AF%E6%9C%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%B0%8Froo%E7%94%A8%E8%BF%87%E5%93%AA%E4%BA%9B%E7%A7%AF%E6%9C%A8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;一般来说，越是小孩子，使用的积木，越是大块，越是小孩子，也越要注意安全，不要让孩子误吞咽。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/stuff/2025010301/featured.png" />
     </item>
     
     <item>
@@ -484,6 +712,21 @@
     </item>
     
     <item>
+      <title>交到一个好朋友--《ET》</title>
+      <link>https://www.roodudu.com/movie/et/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/movie/et/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  这部电影不仅是一段奇幻的旅程，更是一次关于成长与爱的教育。希望女儿能记住这些细腻而深刻的情感，在她的生活中学会与人交朋友，珍惜朋友，也成为一个值得别人信任和喜爱的人。
+&lt;/div&gt;
+
+&lt;p&gt;小Roo三年级的时候，我和她一起看了一部经典的电影《ET外星人》，这是1982年的一部老电影，虽然已经过去了几十年，但它依然像一颗闪亮的星星，能照亮我们心中的温暖和感动。作为一个爸爸，我不仅希望女儿享受这部电影的精彩故事，更希望她从中学到一些关于友谊、勇气和爱
+的道理。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/movie/et/featured.jpg" />
+    </item>
+    
+    <item>
       <title>330科教工程--免费的宝藏网站</title>
       <link>https://www.roodudu.com/soft/2025010401/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
@@ -495,6 +738,44 @@
 
 &lt;p&gt;很多家长热衷于给孩子送去各种良莠不齐的学习班，且不说很多真金白银基本就是打水漂，主要是教学的质量难以得到保障，更浪费了孩子的宝贵时间。&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/soft/2025010401/cover.png" />
+    </item>
+    
+    <item>
+      <title>围棋资源</title>
+      <link>https://www.roodudu.com/soft/2025010402/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/soft/2025010402/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  我们让孩子学围棋，不是为了让他成为大师、世界冠军，而是训练思维能力。不管孩子将来做什么，专注、思考、谋略、布局……这些能力都会让孩子未来比同龄人走得更远。
+&lt;/div&gt;
+
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;围棋种草 
+    &lt;div id=&#34;%E5%9B%B4%E6%A3%8B%E7%A7%8D%E8%8D%89&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%9B%B4%E6%A3%8B%E7%A7%8D%E8%8D%89&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;曾经有人问我，如果只能选择一个兴趣班，你会让孩子学什么？&lt;/strong&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/soft/2025010402/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Tennessee美国小学原版科学教材</title>
+      <link>https://www.roodudu.com/soft/2025010301/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/soft/2025010301/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  &lt;p&gt;《Tennessee Science》是一套非常适合家庭辅导和课外科学拓展的原版教材。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/soft/2025010301/featured.png" />
     </item>
     
     <item>
@@ -526,6 +807,32 @@
     </item>
     
     <item>
+      <title>蜂蜡--释放孩子创造力的好玩具</title>
+      <link>https://www.roodudu.com/stuff/2025010201/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/stuff/2025010201/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  天然蜂蜡玩具温暖柔软、可塑性强，既能激发低龄孩子的感官体验和创造力，又带来大自然的温润滋养和安全陪伴。
+&lt;/div&gt;
+
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;小Roo妈妈说 
+    &lt;div id=&#34;%E5%B0%8Froo%E5%A6%88%E5%A6%88%E8%AF%B4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%B0%8Froo%E5%A6%88%E5%A6%88%E8%AF%B4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;蜂蜡胶泥类玩具是一种天然、安全且富有创造力的材料，对孩子的成长具有多方面的益处。首先，蜂蜡具有独特的柔韧性和可塑性，在孩子双手的温暖下逐渐变软，能够被塑造成各种形状。这种特性不仅激发了孩子的想象力，使他们能随心所欲地创造物体和表达想法，还能通过手部的反复揉搓和塑造，提升手指的灵活度和精细运动技能，为未来的书写、绘画等能力打下基础。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/stuff/2025010201/featured.jpg" />
+    </item>
+    
+    <item>
       <title>圣诞颂歌</title>
       <link>https://www.roodudu.com/movie/chrismas/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
@@ -552,6 +859,32 @@
     </item>
     
     <item>
+      <title>新年大礼--《螺丝钉》</title>
+      <link>https://www.roodudu.com/soft/2025010201/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/soft/2025010201/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  这是小Roo学龄前后最喜欢的一个Steam方面的动画片系列了。
+&lt;/div&gt;
+
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;动画介绍 
+    &lt;div id=&#34;%E5%8A%A8%E7%94%BB%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%8A%A8%E7%94%BB%E4%BB%8B%E7%BB%8D&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;《螺丝钉》是一部活泼、生动且寓教于乐的俄罗斯儿童三维动画作品。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/soft/2025010201/featured.jpg" />
+    </item>
+    
+    <item>
       <title>订阅电子报</title>
       <link>https://www.roodudu.com/dailypaper/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -559,6 +892,20 @@
       <guid>https://www.roodudu.com/dailypaper/</guid>
       <description>小Roo小学的时候，因为市面上的杂志、报纸多是登载一些十年不变的旧内容，为了帮助小Roo开拓眼界，培养探索精神，Roo爸爸开始给小Roo编辑电子报，小Roo非常喜欢。</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/dailypaper/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>给小Roo选择的第一份杂志</title>
+      <link>https://www.roodudu.com/stuff/2025010101/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/stuff/2025010101/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  拆开每月如期而至的巧虎、布奇两个杂志的包装，并喜孜孜地观看DVD，是小Roo每个月最开心的时候
+&lt;/div&gt;
+
+&lt;p&gt;又到了年末给小Roo订阅杂志的时候，她挑来挑去都没有特别合意的，最后悻悻地选了几个杂志，叹气：“爸爸，能选的真的不多，你现在变懒了，不给我出报纸了～”&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/stuff/2025010101/cover.jpg" />
     </item>
     
     <item>
@@ -647,20 +994,6 @@
       <guid>https://www.roodudu.com/youhua/</guid>
       <description>童心悠画工作室 | 用艺术点亮孩子的内心世界。</description>
       
-    </item>
-    
-    <item>
-      <title>给小Roo选择的第一份杂志</title>
-      <link>https://www.roodudu.com/stuff/2025010101/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.roodudu.com/stuff/2025010101/</guid>
-      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  拆开每月如期而至的巧虎、布奇两个杂志的包装，并喜孜孜地观看DVD，是小Roo每个月最开心的时候
-&lt;/div&gt;
-
-&lt;p&gt;又到了年末给小Roo订阅杂志的时候，她挑来挑去都没有特别合意的，最后悻悻地选了几个杂志，叹气：“爸爸，能选的真的不多，你现在变懒了，不给我出报纸了～”&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/stuff/2025010101/cover.jpg" />
     </item>
     
   </channel>
