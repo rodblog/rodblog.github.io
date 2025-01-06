@@ -77,6 +77,13 @@
         
         
 
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-d929af8c590e585d007ec35c9de01997&#34; data-twe-slide-to=&#34;5&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 5&#34;&gt;&lt;/button&gt;
+
+        
+        
+
     &lt;/div&gt;
     &lt;div class=&#34;relative w-full overflow-hidden after:clear-both after:block after:content-[&#39;&#39;]&#34;&gt;
 
@@ -127,6 +134,16 @@
             data-twe-carousel-item &gt;
             &lt;div class=&#34;ratio-21-9 single_hero_background&#34;&gt;
                 &lt;img src=&#34;https://www.roodudu.com/posts/2025010104/gallery/05.png&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 4&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2500ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-21-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.roodudu.com/posts/2025010104/gallery/zanshang.png&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 5&#34;/&gt;
             &lt;/div&gt;
         &lt;/div&gt;
 
