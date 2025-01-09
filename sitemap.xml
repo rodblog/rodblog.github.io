@@ -147,7 +147,97 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.roodudu.com/soft/2025010701/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/categories/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E6%89%BF%E8%AF%BA/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/categories/%E5%88%9D%E4%B8%AD/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/categories/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E5%8F%A4%E8%AF%97/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/soft/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E5%9C%A3%E8%AF%9E%E8%8A%82/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/movie/xialuo/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/movie/homealone/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/categories/%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/categories/%E5%B0%8F%E5%AD%A6%E9%AB%98%E5%B9%B4%E7%BA%A7/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E5%8B%87%E6%95%A2/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -159,12 +249,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.roodudu.com/categories/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.roodudu.com/posts/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -172,12 +256,6 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/series/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/tags/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -197,24 +275,6 @@
   <url>
     <loc>https://www.roodudu.com/series/%E7%94%B5%E5%BD%B1%E8%B5%8F%E6%9E%90/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/categories/%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/categories/%E5%B0%8F%E5%AD%A6%E9%AB%98%E5%B9%B4%E7%BA%A7/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/categories/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -249,8 +309,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.roodudu.com/tags/%E5%8B%87%E6%95%A2/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <loc>https://www.roodudu.com/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -267,13 +327,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.roodudu.com/soft/</loc>
+    <loc>https://www.roodudu.com/categories/%E9%AB%98%E4%B8%AD/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.roodudu.com/stuff/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/soft/2025010602/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -297,7 +363,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.roodudu.com/categories/%E5%88%9D%E4%B8%AD/</loc>
+    <loc>https://www.roodudu.com/tags/%E6%99%BA%E5%95%86/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/soft/2025010502/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E6%AD%8C%E6%9B%B2/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -388,12 +466,6 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/soft/2025010301/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/categories/%E9%AB%98%E4%B8%AD/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -502,12 +574,6 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/series/%E8%80%83%E8%AF%95%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/tags/%E5%9C%A3%E8%AF%9E%E8%8A%82/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
