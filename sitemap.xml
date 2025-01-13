@@ -51,6 +51,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.roodudu.com/stuff/2025010401/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/posts/2025010402/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -550,6 +556,12 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/tags/app/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E6%95%99%E5%AD%A6%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
