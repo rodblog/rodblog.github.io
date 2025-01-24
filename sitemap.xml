@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://www.roodudu.com/stuff/2025012301/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/stuff/2025012001/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -190,19 +196,43 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/categories/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.roodudu.com/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.roodudu.com/tags/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/stuff/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E7%8E%A9%E5%85%B7/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/categories/%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/categories/%E5%B9%BC%E5%84%BF/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -225,18 +255,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.roodudu.com/categories/%E5%B0%8F%E5%AD%A6%E4%BD%8E%E5%B9%B4%E7%BA%A7/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/categories/%E5%B9%BC%E5%84%BF/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.roodudu.com/soft/2025012101/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -250,12 +268,6 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/categories/%E5%88%9D%E4%B8%AD/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/stuff/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -309,25 +321,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.roodudu.com/tags/%E7%8E%A9%E5%85%B7/</loc>
-    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+    <loc>https://www.roodudu.com/posts/2025011301/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.roodudu.com/posts/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/series/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.roodudu.com/tags/steam/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/series/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
