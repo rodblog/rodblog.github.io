@@ -309,6 +309,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.roodudu.com/soft/2025011401/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/movie/wildrobot/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -321,7 +327,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.roodudu.com/tags/%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/posts/2025011301/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/soft/2025011301/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/maze/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
