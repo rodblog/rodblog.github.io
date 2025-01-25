@@ -309,6 +309,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.roodudu.com/posts/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/soft/2025011401/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -322,6 +328,12 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/tags/%E5%AE%88%E6%8A%A4/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/posts/2025011401/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -346,12 +358,6 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/tags/maze/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/posts/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
