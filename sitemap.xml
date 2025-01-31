@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://www.roodudu.com/movie/glgsh/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/stuff/2025012301/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -341,6 +347,18 @@
   <url>
     <loc>https://www.roodudu.com/tags/%E6%88%98%E4%BA%89/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E7%AF%AE%E7%90%83/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E7%83%AD%E8%A1%80/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
