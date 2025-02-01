@@ -21,6 +21,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.roodudu.com/posts/2025011801/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/posts/2025011701/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -454,7 +460,7 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/posts/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
