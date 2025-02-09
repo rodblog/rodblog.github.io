@@ -273,7 +273,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.roodudu.com/movie/shenhai/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/tags/%E7%A5%9E%E8%AF%9D/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E5%8B%87%E6%95%A2/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E6%B2%BB%E6%84%88/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -862,12 +880,6 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/movie/homealone/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/tags/%E5%8B%87%E6%95%A2/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
