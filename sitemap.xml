@@ -261,6 +261,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.roodudu.com/categories/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/movie/ddlm/</loc>
+    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.roodudu.com/categories/%E9%AB%98%E4%B8%AD/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -274,6 +286,18 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/tags/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/tags/%E5%8A%B1%E5%BF%97/</loc>
+    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.roodudu.com/movie/sjbbb/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -334,12 +358,6 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/movie/dqcj/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/categories/%E7%94%B5%E5%BD%B1/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -610,12 +628,6 @@
   </url>
   <url>
     <loc>https://www.roodudu.com/movie/jwdym/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.roodudu.com/tags/%E5%8A%B1%E5%BF%97/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
