@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Old Roo</copyright>
-    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.roodudu.com/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.roodudu.com/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RaspberryPi 微电脑</title>
+      <link>https://www.roodudu.com/stuff/2025022001/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.roodudu.com/stuff/2025022001/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Raspberry Pi：当小Roo的编程之路升了个“级”
+&lt;/div&gt;
+
+&lt;p&gt;作为一个曾经在客厅被拼插零件绊脚、如今又在桌子上被各种电线和主板支配的老父亲，我必须得说，孩子的兴趣真是无止境。当小Roo已经把 micro:bit 玩得滚瓜烂熟，连我都看不懂她在上面跑的代码时，我知道——是时候升级装备了。于是，Raspberry Pi 闪亮登场！&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.roodudu.com/stuff/2025022001/featured.jpg" />
+    </item>
     
     <item>
       <title>BBC-microbit</title>
